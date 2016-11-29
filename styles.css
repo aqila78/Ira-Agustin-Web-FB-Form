@@ -1,0 +1,57 @@
+* { margin: 0; padding: 0; }
+body { margin: 0; padding: 0; font-style: normal; font-family: "arial"; }
+
+.masuk { background-color: #3b5998; overflow: hidden; padding: 10px 0px; }
+.tengah { width: 980px; margin: 0 auto; }
+.logo-fb { float: left; max-width: 17%; max-height: 17%; margin-top: 20px; }
+.f-masuk { float: right; }
+.email { float: left; margin: 0; margin-right: 10px; padding: 0; }
+.email label { color: #fff; float:left; font-size: 12px; }
+.email input { width: 153px; height: 20px; border: 1px solid #333; }
+.password { float: left; margin: 0; margin-right: 10px; padding: 0; }
+.password label { color: #fff; float:left; font-size: 12px; }
+.password input { width: 153px; height: 20px; border: 1px solid #333; }
+.password a { text-decoration: none; color: #9cb4d8; float: left; margin-top: 4px; font-size: 12px; }
+.password a:hover { text-decoration: underline; }
+.b-masuk { float: right; width: 56px; height: 24.8px; color: #fff; cursor: pointer; border: 1px solid #29487d; border-radius: 2px; margin-top: 18px; background-color: #4267b2; }
+.daftar { text-align: center; height: 900px; background-color: #D3D8E8; overflow: hidden; }
+.info-cover { padding: 0; margin: 0; width: 450px; color: #0e385f; font-size: 20px; margin-top: 41px; line-height: 29px; font-weight: bold; }
+.isi { overflow: hidden; width: 50%;  margin-left: auto; margin-right: auto; background: white; margin-top: 20px; padding: 20px 20px; border: 2px solid #fff; border-radius: 15px; }
+.info-daftar { padding: 0; margin: 0; }
+.info-daftar-judul { padding: 0; margin: 0; margin-top: 25px; color: #333; font-size: 36px; font-weight: bold; }
+.info-daftar-deskripsi { padding: 0; margin: 0; margin-top: 6.8px; color: #1d2129; font-size: 19px; font-weight: normal; line-height: 1.34; }
+.f-daftar { float: left; }
+.form-fill1 { padding: 0; margin: 0; margin-top: 20px; }
+.form-fill1 input { width: 172.5px; height: 22px; font-size: 18px; padding: 8px 10px;  border-radius: 5px; margin-right: 10px; margin-bottom: 10px; border: solid 1px #bdc7d8; }
+.form-fill2 { padding: 0; margin: 0; }
+.form-fill2 input { width: 377px; height: 22px; font-size: 18px; padding: 8px 10px;  border-radius: 5px; margin-bottom: 10px; border: solid 1px #bdc7d8; }
+.form-birthdate { padding: 0; margin: 0; }
+.form-birthdate a { color: #365899; font-size: 11px; max-width: 150px; padding-left: 5px; font-weight: normal; display: inline-block; text-decoration: none; vertical-align: middle; }
+.form-birthdate a:hover { text-decoration: underline; }
+.form-birthdate label { color: #1d2129; font-size: 18px; margin-top: 2px; font-weight: normal; display: inline-block; }
+.form-birthdate select { margin-top: 10px; padding: 4px 5px; border: solid 1px #ccc; border-radius: 0; text-align: center; }
+.form-birthdate option { text-align: center; }
+.form-gender { padding: 0; margin: 0; color: #1d2129; font-size: 18px; margin-top: 16px; margin-left: 9px; font-weight: normal; }
+.ketentuan { margin: 0; color: #777;  width: 316px; font-size: 11px; padding: 18px 0px; font-weight: normal; }
+.ketentuan a { color: #365899; text-decoration: none; }
+.ketentuan a:hover { text-decoration: underline; }
+.b-daftar { padding: 8px 55px; border: 1px solid #3b6e22; border-radius: 5px; background: #67ae55; color: #fff; font-size: 19px; }
+.buat-halaman { color: #666; font-size: 13px; font-weight: bold; margin-top: 10px; padding-top: 15px; }
+.buat-halaman a { color: #365899; text-decoration: none; }
+.buat-halaman a:hover { text-decoration: underline; }
+.jenis-bahasa { list-style: none; border-bottom: 1px solid #dddfe2; }
+.jenis-bahasa li { margin: 15px 0px; margin-right: 5px; color: #737373; display: inline-block; font-size: 12px; font-weight: normal; }
+.jenis-bahasa li a { color: #365899; padding: 0px 5px; text-decoration: none; }
+.jenis-bahasa li a:hover { text-decoration: underline; }
+.daftar-isi-link1 { list-style: none; margin-top: 15px; }
+.daftar-isi-link1 li { color: #737373; display: inline; font-size: 12px; font-weight: normal; }
+.daftar-isi-link1 li a { color: #365899; padding: 0px 5px; text-decoration: none; }
+.daftar-isi-link1 li a:hover { text-decoration: underline; }
+.daftar-isi-link2 { list-style: none; }
+.daftar-isi-link2 li { color: #737373; display: inline; font-size: 12px; font-weight: normal; }
+.daftar-isi-link2 li a { color: #365899; padding: 0px 5px; text-decoration: none; }
+.daftar-isi-link2 li a:hover { text-decoration: underline; }
+.daftar-isi-link3 { list-style: none; margin-bottom: 15px; }
+.daftar-isi-link3 li { color: #737373; display: inline; font-size: 12px; font-weight: normal; }
+.daftar-isi-link3 li a { color: #365899; padding: 0px 5px; text-decoration: none; }
+.daftar-isi-link3 li a:hover { text-decoration: underline; }
